@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the totall routing of the Lord George Digby and Sir Marmaduke Langdale by the Scottish forces under the command of Sir John Browne of Fordell, Knight. Certified by an expresse from His Excellency Generall Leven to the commissioners of the kingdome of Scotland residing at London. Dated at Allerton October 28. 1645. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88076</idno>
+            <idno type="STC">Wing L1818</idno>
+            <idno type="STC">Thomason E308_8</idno>
+            <idno type="STC">ESTC R200367</idno>
+            <idno type="EEBO-CITATION">99861159</idno>
+            <idno type="PROQUEST">99861159</idno>
+            <idno type="VID">158827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158827)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E308[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the totall routing of the Lord George Digby and Sir Marmaduke Langdale by the Scottish forces under the command of Sir John Browne of Fordell, Knight. Certified by an expresse from His Excellency Generall Leven to the commissioners of the kingdome of Scotland residing at London. Dated at Allerton October 28. 1645. Published by authority.</title>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>Vandrusk, Jonas.</author>
+                  <author>Brown, John, Sir, d. 1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.B. for Robert Bostock at the Kings Head in Pauls Churchyard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes letters from Leven, Jonas Vandruske and Sir John Browne.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Carlisle (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158827:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <p>A True RELATION OF The totall Routing of the Lord GEORGE DIGBY And Sir MARMADUKE LANGDALE By the Scottiſh Forces under the command of Sir <hi>John Browne</hi> of <hi>Fordell,</hi> Knight.</p>
+            <p>Certified by an Expreſſe from his Ex<g ref="char:EOLhyphen"/>cellency Generall LEVEN to the Commiſſioners of the Kingdome of <hi>Scotland</hi> reſiding at London.</p>
+            <p>Dated at <hi>Allerton</hi> October 28. 1645.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON, Printed by <hi>M. B.</hi> for <hi>Robert Boſtock</hi> at the Kings Head in Pauls Churchyard. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158827:2"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:158827:2"/>
+            <!-- PDF PAGE 108 -->
+            <head>A Letter from his Excellency the Earle of LEVEN to the Commiſſioners of the Kingdome of <hi>Scotland</hi> at <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhips:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He incloſed from Sir <hi>John Browne</hi> and Generall-Major <hi>Vandruske,</hi> will in<g ref="char:EOLunhyphen"/>form your Lordſhips particulary what ſucceſſe the Lord <hi>Digby</hi> and Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale</hi> had in their voyage to <hi>Scotland,</hi> and that their intended invaſion of that Kingdome, and con<g ref="char:EOLhyphen"/>junction with
+<note n="*" place="margin">The pretend<g ref="char:EOLhyphen"/>ed Marqueſſe of Montroſſe.</note> 
+               <hi>James Grahames</hi> Forces, by Gods bleſ<g ref="char:EOLhyphen"/>ſing, is now happily prevented, the notice whereof it ſeemes had not come to the knowledge of the Com<g ref="char:EOLhyphen"/>mittee before this Meſſenger was diſpatched, though I ſent the copy of Sir <hi>John Browns</hi> Letter to them with all ſpeed immediately after the receipt thereof: But I remit your Lordſhips to the Papers, and ſhall likewiſe ſhew you, that being certified this night from the com<g ref="char:EOLhyphen"/>mander in chiefe of the Forces about <hi>Bolton,</hi> that the remainder of the Enemy upon the retreat, being but two hundred, had eſcaped colonell <hi>Wrens</hi> Horſe, and were enquiring the way thorow the Dales to <hi>Bolton<g ref="char:EOLhyphen"/>Caſtle,</hi> and might poſſibly ſurprize ſome Ordinance and Ammunition at <hi>Bedall</hi> going for <hi>Bolton-Caſtle:</hi> I did forthwith order three hundred commanded men to goe thither for preſervation thereof, &amp; the ſafe conduct of the
+<pb facs="tcp:158827:3"/>
+               <!-- PDF PAGE 109 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:158827:3"/>
+               <!-- PDF PAGE 109 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:158827:4"/>
+               <!-- PDF PAGE 110 -->ſame to <hi>Bolton;</hi> for my Lord <hi>Wharton</hi> and the com<g ref="char:EOLhyphen"/>mander at <hi>Bolton</hi> doe both write to me, that they are but two hundred in all that are come back ſeeking re<g ref="char:EOLhyphen"/>ſuge, either in <hi>Bolton</hi> or <hi>Skipton.</hi> I did communicate <hi>Vandruske</hi> his Letter to the Committee at <hi>Yorke,</hi> that they might timely cauſe interruption of them at <hi>Skip<g ref="char:EOLhyphen"/>ton,</hi> and give notice to ſome Foot-Forces, which I un<g ref="char:EOLhyphen"/>derſtood they ſent thither. I ſent away a Poſt likewiſe to the commander about <hi>Bolton,</hi> that they might be ſtopt there alſo, and did conſtantly give Orders to our Party to purſue them cloſe, and omit no opportunity of advantage againſt them, who will doe it carefully, I hope; but now that the Enemies body is routed and reſolved to ſo ſmall a number, they may make the more ſpeedy motion, and eſcape.</p>
+            <p>My former Letters, with the incloſed Papers, con<g ref="char:EOLhyphen"/>cerning the Declaration intended to be publiſhed by the Committee at <hi>Yorke,</hi> will ſhew your Lordſhips my care to keep a right underſtanding betwixt the country peo<g ref="char:EOLhyphen"/>ple and us. Sir <hi>Henry Gibb</hi> and the generall Quarter<g ref="char:EOLhyphen"/>maſter have returned ſince, ſhewing me they have ap<g ref="char:EOLhyphen"/>pointed ſome of their number to joyne with ſuch as I ſhould authorize, for hearing and redreſſing what ſhall be found amiſle in the ſeverall Quarters, wherein I ſhall take care that all poſſible ſatisfaction may be given to all parties aggrieved; but the ſooner we remove from hence for the eaſe of the Quarters, it were the better.</p>
+            <p>Since the writing hereof, two Priſoners of Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdales</hi> that were taken as they paſt thorow the Lord <hi>Sincklairs</hi> Quarters, being brought to me and examined, declared, That the Lord <hi>Digby,</hi> Sir <hi>Marma<g ref="char:EOLhyphen"/>duke Langdale,</hi> the Lord <hi>Carnewath,</hi> and another Scottiſh Lord, either <hi>Johnſton</hi> or <hi>Maxwell,</hi> have ſhipt in at <hi>Ra<g ref="char:EOLhyphen"/>vengloſſe</hi>
+               <pb n="3" facs="tcp:158827:4"/>
+               <!-- PDF PAGE 110 -->for the Iſle of <hi>Man</hi> or <hi>Jreland,</hi> they knew not which. They informe likewiſe, that they were above too ſtrong when they went to <hi>Scotland,</hi> and that Sir <hi>Marma<g ref="char:EOLhyphen"/>duke</hi> at his parting with them gave them their free liber<g ref="char:EOLhyphen"/>ty to diſpoſe upon themſelves as they thought beſt, er<g ref="char:EOLhyphen"/>ther to goe to the Country or to <hi>Newarke,</hi> ſo that they are all diſperſed now and gone ſeverall waies. I ſhall trouble your Lordſhip no further, but am,</p>
+            <closer>
+               <dateline>Allerton <date>28. Octo. 1645.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servant,
+<hi>Leven,</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from Generall Major <hi>Vandruske</hi> to his Excellency the Earl of <hi>Leven.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince I wrote my laſt unto your Excel<g ref="char:EOLhyphen"/>lency I divided my party, and kept your Excellencies Regiment with me, and joyning with Sir <hi>I. Brown</hi> marched over the river into Scotland, another way then the enemy did, with intention to come before them and beate them out of Scotland againe; and I tooke the Engliſh Regiment that came with me, and ſome other forces of Horſe and Foote of Cumberland to guard the paſſage of the river, that they might not come back againe without being in<g ref="char:EOLhyphen"/>terrupted, and ſo I marched towards Annan, but the enemy hearing of my approach towards him, and of ſome of my Lord <hi>Balcleughs</hi> men, retreated backe
+<pb n="2" facs="tcp:158827:5"/>
+               <!-- PDF PAGE 111 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:158827:5"/>
+               <!-- PDF PAGE 111 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:158827:6"/>
+               <!-- PDF PAGE 112 -->againe towards the paſſage of the river where he came over; I thinking my ſelfe very happy to have once the occaſion to meet with him, marched as faſtas I could after him, hoping that the Engliſh according to their promiſe would have kept the paſſe, but they as ſoone as I was marched towards Scotland left their poſts and went away, and ſo by that meanes the enemy got leave to paſſe over againe. I mar<g ref="char:EOLhyphen"/>ched after them as faſt as I could and came over the main river by night time, but within three miles of that there was another river which I could not paſſe being then Sea-water, and ſo I was forced to ſtay and give the ene<g ref="char:EOLhyphen"/>my leave to be a great way before me. They are gone towards Millam Caſtle, and by reaſon that our Horſes are ſo extreame weary with ſo tedious a march, I have ſent a party to follow them for that I am not able to fol<g ref="char:EOLhyphen"/>low withall, being that I have marched ſo long and in ſo evill waies that I beleeve no Horſe before have marched it; I am extream ſorry that I am not ſo happy as to give your Excellency a better accompt of them. I humbly be<g ref="char:EOLhyphen"/>ſeech your Excellency to beleeve, that it is againſt the will and endeavour of</p>
+            <closer>
+               <signed>Your Excellencies moſt faithfull and moſt obedient Servant,
+<hi>Jonas Vandrusk.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:158827:6"/>
+            <!-- PDF PAGE 112 -->
+            <head>A Letter from Sir <hi>Iohn Browne</hi> to his Excellency the Earle of LEVEN.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Intended to have marched to Dum<g ref="char:EOLhyphen"/>freis and to joyne with the Country Forces there, for the better oppoſing the intended invaſion, but being deſi<g ref="char:EOLhyphen"/>red by the Committee of Cumberland to advance and joyn with their Troops, having obeyed their deſire, and come to the place appointed, none of their Forces would ſtay with me but ran all to Pireth, (and as I conceive) of purpoſe to let the enemy out of their Country into Scot<g ref="char:EOLhyphen"/>land; ſo the enemy did enter Scotland, they would give me no aſſiſtance to perſue them, I followed with my owne Regiment, they were 600. that went to Skipton, 150. come out of Skipton, and 200. of the Country did joyne with them, ſo they were in all neere one thouſand Horſe; I ſent away my Standards, and betwixt hope and diſpaire did charge them, they not knowing what way to goe did ſtand to it very well, for it was full Sea, ſo
+<pb n="6" facs="tcp:158827:7"/>
+               <!-- PDF PAGE 113 -->that they could not goe back to England; at laſt after a long and ſore skirmiſh they were routed, I not being above 300. ſtrong, for I had two Parties out of my Regi<g ref="char:EOLhyphen"/>ment that were not there, about 100. of them killed in the place, ſeverall drowned in the water, three Stand<g ref="char:EOLhyphen"/>ards taken from them, their generall Quarter-maſter taken, one Colonell, two Lievtenant Colonels, three Captaines, and ſundry inferiour Officers; my Lord <hi>Dig<g ref="char:EOLhyphen"/>bies</hi> Trumpeter and Colours taken, as alſo Sir <hi>Marmaduke Langdales,</hi> all their Baggage and Ammunition loſt, 200. Horſe taken. I have killed to me above 30. Troopers, and 50. ſore wounded. Captaine <hi>Leſley</hi> is deadly hurt, I am likewiſe ſhot in the body, but I thanke God able to Ride as yet; many of my Officers hurt: I am going for<g ref="char:EOLhyphen"/>ward with my Regiment to joyne with Generall Major <hi>Vandruske;</hi> their Horſe are ſo weary that I hope I ſhall meete with them within two daies, and your Excellency may be confident their deſtruction ſhall with great ear<g ref="char:EOLhyphen"/>neſtneſſe be endeavoured, by</p>
+            <closer>
+               <dateline>Carliſle <date>24. of Octob. 1645.</date>
+               </dateline>
+               <signed>Your Excellencies moſt humble Servant,
+<hi>John Brown.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>All that did joyne with them in Cumberland are run backe and many more alſo, they will daily grow weaker for they are in great confuſion.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
